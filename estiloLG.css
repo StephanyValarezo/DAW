@@ -1,0 +1,43 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+div{
+	
+	display:block;
+	
+	color: black;
+	
+	vertical-align: middle;
+    text-align: center;
+
+	
+	font-size: 36px ;
+	font-family: 'Baloo';
+
+	height:120px;
+	width: 120px;
+    border: 2pt;
+    border-style: solid;
+    border-color:  #606060;
+    border-radius: 10px;
+
+    padding: 0px;
+    
+    margin: 7.5px;
+
+
+
+
+}
+
+div#p01{background-color: #f7fade;}
+
+div#p02{background-color: #dfedd6;}
+
+div#p03{background-color: #f7fade;}
+
+div#p04{background-color: #dfedd6;}
