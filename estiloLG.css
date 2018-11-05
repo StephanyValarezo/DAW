@@ -8,11 +8,12 @@
 div{
 	
 	display:block;
-	
+	margin: 0 auto;
 	color: black;
 	
+	text-align: center;
 	vertical-align: middle;
-    text-align: center;
+    line-height:120px;
 
 	
 	font-size: 36px ;
